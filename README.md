@@ -1,5 +1,7 @@
 # go-audio-control
 
+<img src="go-audio-control.png" alt="go-audio-control" width="50%">
+
 Cross-platform audio device management package for Go.
 
 ## Features

@@ -10,10 +10,19 @@ Cross-platform audio device management package for Go.
 - Monitor for device changes (add/remove/disconnect)
 - Works on macOS (CoreAudio) and Windows (WASAPI/MMDevice)
 
+## Potential Applications
+
+- **Audio Switchers** - Quick device switching for headphones, speakers, etc.
+- **Meeting Tools** - Auto-manage devices for video conferencing
+- **Gaming/Streaming** - Context-based audio device selection
+- **Bluetooth Managers** - Handle wireless audio connections
+- **Automation** - Switch devices based on time, presence, or running apps
+- **Accessibility** - Hearing aid integration and visual indicators
+
 ## Installation
 
 ```bash
-go get github.com/yourusername/go-audio-control
+go get github.com/audi70r/go-audio-control
 ```
 
 ## Usage
